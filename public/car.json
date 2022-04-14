@@ -1,0 +1,56 @@
+[
+    {
+    
+    "name": "Engine Detect",
+    "id": "1",
+    "price": "$60.00",
+    "description":" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum consectetur inventore distinctio eos praesentium dolor error ratione, sed officiis libero!",
+    "img": "https://i.ibb.co/V2w1LD7/1.jpg"
+
+    },
+    {
+    
+    "name": "Garage",
+    "id": "2",
+    "price": "$40.00",
+    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum consectetur inventore distinctio eos praesentium dolor error ratione, sed officiis libero! ",
+    "img": "https://i.ibb.co/VQQgTNp/2.jpg"
+    
+    },
+    {
+    
+    "name": "Engine Architecture",
+    "id": "3",
+    "price": "$50.00",
+    "description":" Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum consectetur inventore distinctio eos praesentium dolor error ratione, sed officiis libero!",
+    "img": "https://i.ibb.co/wRpY4mR/3.jpg"
+    
+    },
+    {
+    
+    "name": "Battery Detect",
+    "id": "4",
+    "price": "$45.00",
+    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum consectetur inventore distinctio eos praesentium dolor error ratione, sed officiis libero! ",
+    "img": "https://i.ibb.co/ZmPdbdv/4.jpg"
+    
+    },
+    {
+    
+    "name": "Wheel Steel",
+    "id": "5",
+    "price": "$30.00",
+    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum consectetur inventore distinctio eos praesentium dolor error ratione, sed officiis libero! ",
+    "img": "https://i.ibb.co/jLgY32K/5.jpg"
+    
+    },
+    {
+    
+    "name": "Screw and Nuts",
+    "id": "6",
+    "price": "48.00",
+    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum consectetur inventore distinctio eos praesentium dolor error ratione, sed officiis libero! ",
+    "img": "https://i.ibb.co/g61ZkCb/6.jpg"
+    
+    }
+]
